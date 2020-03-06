@@ -1,0 +1,24 @@
+{
+  "name": "project-jrc",
+  "version": "1.0.0",
+  "description": "Node project with sessions etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JRC404/Project-JRC.git"
+  },
+  "keywords": [
+    "Node",
+    "MongoDB",
+    "Mongo",
+    "Express"
+  ],
+  "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
